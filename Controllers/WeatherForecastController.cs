@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Kadiwa.Controllers
+namespace Weather.Controllers
 {
     [ApiController]
     [Route("[controller]")]
