@@ -1,4 +1,4 @@
-namespace Kadiwa
+namespace Weather
 {
     public class WeatherForecast
     {
