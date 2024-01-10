@@ -230,3 +230,4 @@ C:\Users\yaobr\Documents\GitHub\Weather\obj\Debug\net7.0\refint\Weather.dll
 C:\Users\yaobr\Documents\GitHub\Weather\obj\Debug\net7.0\Weather.pdb
 C:\Users\yaobr\Documents\GitHub\Weather\obj\Debug\net7.0\Weather.genruntimeconfig.cache
 C:\Users\yaobr\Documents\GitHub\Weather\obj\Debug\net7.0\ref\Weather.dll
+C:\Users\yaobr\Documents\GitHub\Weather\obj\Debug\net7.0\Weather.sourcelink.json
